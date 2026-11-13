@@ -1,0 +1,6 @@
+{
+  "name": "AbleStudio - Accessible Graphic Design & Localization Suite",
+  "description": "Professional graphic design editor with real-time WCAG accessibility auditing, vision deficiency simulators, multi-language localization engine, and high-fidelity export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
